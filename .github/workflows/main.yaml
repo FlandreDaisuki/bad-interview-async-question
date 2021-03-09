@@ -11,6 +11,7 @@ jobs:
         os: ['windows-latest', 'ubuntu-latest', 'macos-latest']
     name: Node ${{ matrix.node }} @${{ matrix.os }}
     steps:
+      - uses: actions/checkout@v2
       - name: Setup node
         uses: actions/setup-node@v2
         with:
