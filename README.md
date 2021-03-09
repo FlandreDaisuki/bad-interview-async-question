@@ -7,7 +7,7 @@ In following environment:
 - [node 8](https://github.com/FlandreDaisuki/bad-interview-async-question/runs/2067474756?check_suite_focus=true#step:4:4)
 - [node 12](https://github.com/FlandreDaisuki/bad-interview-async-question/runs/2067475056?check_suite_focus=true#step:4:4)
 - [node 14](https://github.com/FlandreDaisuki/bad-interview-async-question/runs/2067475165?check_suite_focus=true#step:4:4)
-- Firefox v87 @Ubuntu
+- Firefox v87 @Ubuntu ([test page](https://flandredaisuki.github.io/bad-interview-async-question/))
 - Chromium v87.0.4280.66 @Ubuntu
 
 ```text=4
