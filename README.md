@@ -41,3 +41,8 @@ setTimeout end
 ```
 
 :zany_face:
+
+# Reference
+
+1. https://github.com/nodejs/node/pull/22842
+2. https://tc39.es/ecma262/#sec-hostenqueuepromisejob
